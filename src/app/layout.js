@@ -42,7 +42,8 @@ export default function RootLayout({ children }) {
           <meta name="googlebot" content="index, follow" />
           <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
           <meta name="language" content="English" />
-          <link rel="canonical" href="https://yourdomain.com" />
+          <meta name="google-adsense-account" content="ca-pub-2275102437647301"/>
+          <link rel="canonical" href="https://wallnn-wallpapers.netlify.app" />
           <script
             type="application/ld+json"
             dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
