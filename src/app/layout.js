@@ -42,7 +42,7 @@ export default function RootLayout({ children }) {
           <meta name="googlebot" content="index, follow" />
           <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
           <meta name="language" content="English" />
-          <meta name="google-adsense-account" content="ca-pub-2275102437647301"/>
+          <meta name="google-adsense-account" content="ca-pub-5619524773397022"/>
           <link rel="canonical" href="https://wallnn-wallpapers.netlify.app" />
           <script
             type="application/ld+json"
