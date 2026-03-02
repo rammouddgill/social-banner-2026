@@ -5,14 +5,14 @@ import "./globals.css";
 // const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "LinkedIn Banner Maker | Create Professional Profile Banners Free",
+  title: "Free LinkedIn Banner Creator | Design Professional Profile Headers Online",
   description:
-    "Create professional LinkedIn profile banners instantly with our easy-to-use online tool. Access thousands of high-quality images, add your name and title, then download in perfect LinkedIn dimensions - completely free.",
-  keywords: "LinkedIn banner maker, LinkedIn profile header, banner creator online, professional LinkedIn cover, custom banner design, free LinkedIn graphics, social profile banner",
-  authors: [{ name: "Banner Creation Studio" }],
+    "Design stunning LinkedIn profile banners with our free online banner creator. Browse premium quality images, personalize with your name and headline, and download in optimal LinkedIn dimensions - no sign-up required.",
+  keywords: "LinkedIn banner creator, profile header design, online banner maker, LinkedIn cover photo, personalized banner tool, free profile graphics, LinkedIn header creator",
+  authors: [{ name: "Digital Banner Studio" }],
   openGraph: {
-    title: "LinkedIn Banner Maker | Create Professional Profile Banners Free",
-    description: "Build stunning LinkedIn profile banners effortlessly. Completely free, professional templates, and instant downloads.",
+    title: "Free LinkedIn Banner Creator | Design Professional Profile Headers Online",
+    description: "Craft eye-catching LinkedIn profile banners in minutes. Free to use, professional designs, and ready-to-download banners.",
     type: "website",
   },
 };
@@ -21,14 +21,14 @@ export default function RootLayout({ children }) {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "WebApplication",
-    "name": "Professional Banner Creation Studio",
+    "name": "Digital Banner Studio - LinkedIn Header Creator",
     "applicationCategory": "DesignApplication",
     "offers": {
       "@type": "Offer",
       "price": "0",
       "priceCurrency": "USD"
     },
-    "description": "Professional banner maker for creating LinkedIn profile headers online. Free access to extensive image library with instant customization and download capabilities.",
+    "description": "Create stunning LinkedIn profile banners with our free online design tool. Featuring a comprehensive image collection with quick customization and instant download functionality.",
     "operatingSystem": "Any",
     "browserRequirements": "Requires JavaScript. Works with modern browsers."
   };
@@ -43,7 +43,7 @@ export default function RootLayout({ children }) {
           <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
           <meta name="language" content="English" />
               <meta name="google-adsense-account" content="ca-pub-5619524773397022"/>
-          <link rel="canonical" href="https://worldwidejobshub.online" />
+          <link rel="canonical" href="https://styleoftheday.com" />
           <script
             type="application/ld+json"
             dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}

@@ -131,7 +131,7 @@ function Privacy() {
 
         <p>
           At social banner maker, accessible from
-          https://worldwidejobshub.online//, one of our main priorities is the
+          https://styleoftheday.com//, one of our main priorities is the
           privacy of our visitors. This Privacy Policy document contains types
           of information that is collected and recorded by social banner maker
           and how we use it.

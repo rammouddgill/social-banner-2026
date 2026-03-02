@@ -133,7 +133,7 @@ function TermsAndCondition() {
       <p>
         These Website Standard Terms and Conditions written on this webpage
         shall manage your use of our website, social banner maker accessible at
-        https://worldwidejobshub.online//.
+        https://styleoftheday.com//.
       </p>
 
       <p>
